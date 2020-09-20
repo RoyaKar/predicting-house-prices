@@ -1,4 +1,4 @@
-# Predicting Houe Prices using Linear Regression
+# Predicting House Prices using Linear Regression
 
 In this project, I work with housing data for the city of Ames, Iowa, the United States from 2006 to 2010. The data set contains 2930 observations and a large number of explanatory variables involved in assessing home value.
 
